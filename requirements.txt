@@ -1,0 +1,6 @@
+gradio
+torch
+torchvision
+einops
+numpy
+pillow
